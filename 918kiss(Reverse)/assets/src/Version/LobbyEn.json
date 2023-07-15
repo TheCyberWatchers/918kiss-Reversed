@@ -1,0 +1,824 @@
+{
+    "packageUrl": "",
+    "remoteManifestUrl": "",
+    "version": "354",
+    "engineVersion": "V3.3",
+    "assets": {
+        "res/.nomedia": {
+            "md5": "2212294583",
+            "size": 1
+        },
+        "res/Data/Common/Default.png": {
+            "md5": "2462046092",
+            "size": 1788
+        },
+        "res/Data/Common/Fireworks.plist": {
+            "md5": "2186539235",
+            "size": 20820
+        },
+        "res/Data/Common/Fireworks.png": {
+            "md5": "3971258440",
+            "size": 4476076
+        },
+        "res/Data/Common/GameBonus1.csb": {
+            "md5": "1255595327",
+            "size": 117860
+        },
+        "res/Data/Common/GameBonus1.plist": {
+            "md5": "3810845178",
+            "size": 345932
+        },
+        "res/Data/Common/GameBonus1.png": {
+            "md5": "909507629",
+            "size": 2431216
+        },
+        "res/Data/Common/GameBonus2.csb": {
+            "md5": "4059324278",
+            "size": 217388
+        },
+        "res/Data/Common/GameBonus2.plist": {
+            "md5": "3193781949",
+            "size": 580796
+        },
+        "res/Data/Common/GameBonus2.png": {
+            "md5": "1344018345",
+            "size": 2348260
+        },
+        "res/Data/Common/GameMenuBtn.plist": {
+            "md5": "313729462",
+            "size": 1696
+        },
+        "res/Data/Common/GameMenuBtn.png": {
+            "md5": "805753620",
+            "size": 4540
+        },
+        "res/Data/Common/HelpPage.plist": {
+            "md5": "3983134480",
+            "size": 5332
+        },
+        "res/Data/Common/HelpPage.png": {
+            "md5": "4289615719",
+            "size": 3572
+        },
+        "res/Data/Common/ModalDlg.plist": {
+            "md5": "2047560138",
+            "size": 8669
+        },
+        "res/Data/Common/ModalDlg.png": {
+            "md5": "3736517290",
+            "size": 195245
+        },
+        "res/Data/Common/Quckcler.csb": {
+            "md5": "1922107243",
+            "size": 2848
+        },
+        "res/Data/Common/En/DerbyBack.plist": {
+            "md5": "4200835257",
+            "size": 1680
+        },
+        "res/Data/Common/En/DerbyBack.png": {
+            "md5": "2980223934",
+            "size": 7408
+        },
+        "res/Data/Common/En/Gamble.plist": {
+            "md5": "3611883008",
+            "size": 2156
+        },
+        "res/Data/Common/En/Gamble.png": {
+            "md5": "2903821615",
+            "size": 87988
+        },
+        "res/Data/Common/En/GameBonusPic.plist": {
+            "md5": "4158864033",
+            "size": 15912
+        },
+        "res/Data/Common/En/GameBonusPic.png": {
+            "md5": "744363187",
+            "size": 676748
+        },
+        "res/Data/Common/En/GameMenu.plist": {
+            "md5": "2155924638",
+            "size": 7808
+        },
+        "res/Data/Common/En/GameMenu.png": {
+            "md5": "2482914271",
+            "size": 135492
+        },
+        "res/Data/Common/En/Loding.plist": {
+            "md5": "2058147246",
+            "size": 1689
+        },
+        "res/Data/Common/En/Loding.png": {
+            "md5": "1572339378",
+            "size": 584885
+        },
+        "res/Data/Common/En/PublicBtns.plist": {
+            "md5": "2707783803",
+            "size": 16260
+        },
+        "res/Data/Common/En/PublicBtns.png": {
+            "md5": "2216122124",
+            "size": 177932
+        },
+        "res/Data/Common/En/PublicButtons.plist": {
+            "md5": "1858475514",
+            "size": 16260
+        },
+        "res/Data/Common/En/PublicButtons.png": {
+            "md5": "3929044172",
+            "size": 165508
+        },
+        "res/Data/Common/En/Quckcler.plist": {
+            "md5": "3167673513",
+            "size": 3552
+        },
+        "res/Data/Common/En/Quckcler.png": {
+            "md5": "2998796794",
+            "size": 14208
+        },
+        "res/Data/Common/En/WinFree.plist": {
+            "md5": "3209478605",
+            "size": 8268
+        },
+        "res/Data/Common/En/WinFree.png": {
+            "md5": "1262595352",
+            "size": 1900684
+        },
+        "res/Data/Lobby/BGLayer.csb": {
+            "md5": "1553384824",
+            "size": 2916
+        },
+        "res/Data/Lobby/Coming.png": {
+            "md5": "1010087078",
+            "size": 117288
+        },
+        "res/Data/Lobby/Diamond.plist": {
+            "md5": "2534208515",
+            "size": 116737
+        },
+        "res/Data/Lobby/Diamond.png": {
+            "md5": "1294655368",
+            "size": 1378473
+        },
+        "res/Data/Lobby/GameIcon0.plist": {
+            "md5": "1050082430",
+            "size": 27300
+        },
+        "res/Data/Lobby/GameIcon0.png": {
+            "md5": "1647873987",
+            "size": 1236000
+        },
+        "res/Data/Lobby/GameIcon1.plist": {
+            "md5": "1020315477",
+            "size": 27288
+        },
+        "res/Data/Lobby/GameIcon1.png": {
+            "md5": "225665047",
+            "size": 1291416
+        },
+        "res/Data/Lobby/GameIcon2.plist": {
+            "md5": "784214357",
+            "size": 33508
+        },
+        "res/Data/Lobby/GameIcon2.png": {
+            "md5": "3161119764",
+            "size": 1689596
+        },
+        "res/Data/Lobby/GameIcon3.plist": {
+            "md5": "3047804563",
+            "size": 27352
+        },
+        "res/Data/Lobby/GameIcon3.png": {
+            "md5": "1763476794",
+            "size": 1251128
+        },
+        "res/Data/Lobby/GameIcon4.plist": {
+            "md5": "26706461",
+            "size": 21121
+        },
+        "res/Data/Lobby/GameIcon4.png": {
+            "md5": "2658750018",
+            "size": 1182821
+        },
+        "res/Data/Lobby/Gift.plist": {
+            "md5": "263033359",
+            "size": 2152
+        },
+        "res/Data/Lobby/Gift.png": {
+            "md5": "4164119197",
+            "size": 91360
+        },
+        "res/Data/Lobby/IconNum.fnt": {
+            "md5": "3389356506",
+            "size": 1556
+        },
+        "res/Data/Lobby/IconNum.png": {
+            "md5": "2291487479",
+            "size": 1220
+        },
+        "res/Data/Lobby/KissLogo.plist": {
+            "md5": "1548942168",
+            "size": 29057
+        },
+        "res/Data/Lobby/KissLogo.png": {
+            "md5": "1071899716",
+            "size": 2976185
+        },
+        "res/Data/Lobby/Lantern.csb": {
+            "md5": "3082256692",
+            "size": 936
+        },
+        "res/Data/Lobby/Lantern.plist": {
+            "md5": "2332596869",
+            "size": 2628
+        },
+        "res/Data/Lobby/Lantern.png": {
+            "md5": "2500054120",
+            "size": 116908
+        },
+        "res/Data/Lobby/Lobby1.plist": {
+            "md5": "1890942890",
+            "size": 1220
+        },
+        "res/Data/Lobby/Lobby1.png": {
+            "md5": "4104868336",
+            "size": 127816
+        },
+        "res/Data/Lobby/LobbyHot.plist": {
+            "md5": "1715897947",
+            "size": 5896
+        },
+        "res/Data/Lobby/LobbyHot.png": {
+            "md5": "1809389957",
+            "size": 710200
+        },
+        "res/Data/Lobby/LobbyPatchBG.jpg": {
+            "md5": "1697722118",
+            "size": 322408
+        },
+        "res/Data/Lobby/Login.csb": {
+            "md5": "1520018899",
+            "size": 5312
+        },
+        "res/Data/Lobby/Login.plist": {
+            "md5": "1713642699",
+            "size": 12873
+        },
+        "res/Data/Lobby/Login.png": {
+            "md5": "828419955",
+            "size": 73241
+        },
+        "res/Data/Lobby/Reconnect.csb": {
+            "md5": "3040809280",
+            "size": 4000
+        },
+        "res/Data/Lobby/reconnect.plist": {
+            "md5": "4277781015",
+            "size": 11048
+        },
+        "res/Data/Lobby/reconnect.png": {
+            "md5": "3928771259",
+            "size": 85596
+        },
+        "res/Data/Lobby/Ribbon.plist": {
+            "md5": "3003110313",
+            "size": 71173
+        },
+        "res/Data/Lobby/Ribbon.png": {
+            "md5": "876076794",
+            "size": 497489
+        },
+        "res/Data/Lobby/En/Bonus.plist": {
+            "md5": "3869940209",
+            "size": 13344
+        },
+        "res/Data/Lobby/En/Bonus.png": {
+            "md5": "3024191936",
+            "size": 453004
+        },
+        "res/Data/Lobby/En/ChineseNewYear.plist": {
+            "md5": "3291677808",
+            "size": 17193
+        },
+        "res/Data/Lobby/En/ChineseNewYear.png": {
+            "md5": "626293713",
+            "size": 1112613
+        },
+        "res/Data/Lobby/En/Lobby.plist": {
+            "md5": "2144117148",
+            "size": 6377
+        },
+        "res/Data/Lobby/En/Lobby.png": {
+            "md5": "3923190615",
+            "size": 670829
+        },
+        "res/Data/Lobby/En/Lobby3.plist": {
+            "md5": "4018256145",
+            "size": 3541
+        },
+        "res/Data/Lobby/En/Lobby3.png": {
+            "md5": "556488671",
+            "size": 54361
+        },
+        "res/Data/Lobby/En/LobbyMenu.plist": {
+            "md5": "3449758396",
+            "size": 4044
+        },
+        "res/Data/Lobby/En/LobbyMenu.png": {
+            "md5": "4215432862",
+            "size": 26128
+        },
+        "res/Data/Lobby/En/LobbyRed.plist": {
+            "md5": "3789461818",
+            "size": 2632
+        },
+        "res/Data/Lobby/En/LobbyRed.png": {
+            "md5": "1855227560",
+            "size": 177728
+        },
+        "res/Data/Lobby/En/Login1.plist": {
+            "md5": "2313527440",
+            "size": 5433
+        },
+        "res/Data/Lobby/En/Login1.png": {
+            "md5": "861793272",
+            "size": 780657
+        },
+        "res/Data/Lobby/En/MutilButton.plist": {
+            "md5": "2355383027",
+            "size": 6397
+        },
+        "res/Data/Lobby/En/MutilButton.png": {
+            "md5": "1730321701",
+            "size": 216861
+        },
+        "res/Data/Lobby/En/reconnect.plist": {
+            "md5": "840233869",
+            "size": 11069
+        },
+        "res/Data/Lobby/En/reconnect.png": {
+            "md5": "1969325080",
+            "size": 77237
+        },
+        "res/Data/Lobby/En/WinBonus.plist": {
+            "md5": "1916638839",
+            "size": 4076
+        },
+        "res/Data/Lobby/En/WinBonus.png": {
+            "md5": "246228228",
+            "size": 879036
+        },
+        "res/Data/Lobby/En/WinBonus1.plist": {
+            "md5": "1767560900",
+            "size": 13960
+        },
+        "res/Data/Lobby/En/WinBonus1.png": {
+            "md5": "2816379613",
+            "size": 253188
+        },
+        "res/Music/Common/Jackpot.ogg": {
+            "md5": "1053225393",
+            "size": 175023
+        },
+        "res/Music/Common/NewXiFen.ogg": {
+            "md5": "1654135864",
+            "size": 20607
+        },
+        "res/Music/Common/WZxifen.ogg": {
+            "md5": "3660721319",
+            "size": 83081
+        },
+        "res/Music/Lobby/ddq.ogg": {
+            "md5": "2513843409",
+            "size": 40909
+        },
+        "res/Music/Lobby/LobbyClick.ogg": {
+            "md5": "3622290769",
+            "size": 18562
+        },
+        "res/Music/Lobby/LobbyClick1.ogg": {
+            "md5": "3096565281",
+            "size": 17196
+        },
+        "res/Music/Lobby/LobbyMusic01.ogg": {
+            "md5": "1428153882",
+            "size": 152533
+        },
+        "res/Music/Lobby/LobbyMusic02.ogg": {
+            "md5": "970602107",
+            "size": 241286
+        },
+        "res/Music/Lobby/LobbyMusic06.ogg": {
+            "md5": "2030544571",
+            "size": 229749
+        },
+        "res/fonts/arial.ttf": {
+            "md5": "2590945850",
+            "size": 778552
+        },
+        "res/fonts/SIMHEI.TTF": {
+            "md5": "1299516851",
+            "size": 9751960
+        },
+        "res/fonts/WinBonusNum.fnt": {
+            "md5": "2058018387",
+            "size": 1560
+        },
+        "res/fonts/WinBonusNum.png": {
+            "md5": "2852473070",
+            "size": 19892
+        },
+        "res/fonts/Lobby/LobbyBonus.fnt": {
+            "md5": "3206971917",
+            "size": 1444
+        },
+        "res/fonts/Lobby/LobbyBonus.png": {
+            "md5": "811296649",
+            "size": 972
+        },
+        "res/fonts/Lobby/LobbyBonus1.fnt": {
+            "md5": "2505073900",
+            "size": 1444
+        },
+        "res/fonts/Lobby/LobbyBonus1.png": {
+            "md5": "3340382867",
+            "size": 688
+        },
+        "res/fonts/Lobby/LobbyMoney.fnt": {
+            "md5": "3856101010",
+            "size": 1556
+        },
+        "res/fonts/Lobby/LobbyMoney.png": {
+            "md5": "2996793129",
+            "size": 2188
+        },
+        "res/fonts/Lobby/LobbyRedNum.fnt": {
+            "md5": "1158731784",
+            "size": 1560
+        },
+        "res/fonts/Lobby/LobbyRedNum.png": {
+            "md5": "3937702873",
+            "size": 18080
+        },
+        "src/.nomedia": {
+            "md5": "2212294583",
+            "size": 1
+        },
+        "src/mainEntry.luac": {
+            "md5": "765621019",
+            "size": 3419
+        },
+        "src/Config/LobbyConfig.luac": {
+            "md5": "2865399780",
+            "size": 1403
+        },
+        "src/LobbySCR/AppUpdate.luac": {
+            "md5": "2858031581",
+            "size": 2475
+        },
+        "src/LobbySCR/GameConfig.luac": {
+            "md5": "2201629178",
+            "size": 42411
+        },
+        "src/LobbySCR/GameLoader.luac": {
+            "md5": "1673060783",
+            "size": 6347
+        },
+        "src/LobbySCR/LobbyBonus.luac": {
+            "md5": "1450413719",
+            "size": 9567
+        },
+        "src/LobbySCR/LobbyButton.luac": {
+            "md5": "218556174",
+            "size": 1371
+        },
+        "src/LobbySCR/LobbyData.luac": {
+            "md5": "2894491998",
+            "size": 1019
+        },
+        "src/LobbySCR/LobbyData2.luac": {
+            "md5": "2231060699",
+            "size": 815
+        },
+        "src/LobbySCR/LobbyDef.luac": {
+            "md5": "2840874226",
+            "size": 1343
+        },
+        "src/LobbySCR/LobbyGlobal.luac": {
+            "md5": "846972447",
+            "size": 1319
+        },
+        "src/LobbySCR/LobbyHot.luac": {
+            "md5": "4270819357",
+            "size": 1939
+        },
+        "src/LobbySCR/LobbyLogo.luac": {
+            "md5": "2670015684",
+            "size": 1435
+        },
+        "src/LobbySCR/LobbyMenu.luac": {
+            "md5": "1083292750",
+            "size": 4591
+        },
+        "src/LobbySCR/LobbyNet.luac": {
+            "md5": "119505567",
+            "size": 7283
+        },
+        "src/LobbySCR/LobbyPrize.luac": {
+            "md5": "64863860",
+            "size": 1299
+        },
+        "src/LobbySCR/LobbyScene.luac": {
+            "md5": "4057470344",
+            "size": 35291
+        },
+        "src/LobbySCR/LobbyText.luac": {
+            "md5": "1999568804",
+            "size": 1387
+        },
+        "src/LobbySCR/LobbyUpdate.luac": {
+            "md5": "1603532634",
+            "size": 6951
+        },
+        "src/LobbySCR/LoginScene.luac": {
+            "md5": "1766711934",
+            "size": 20027
+        },
+        "src/LobbySCR/PatchConfig.luac": {
+            "md5": "2310997973",
+            "size": 455
+        },
+        "src/LobbySCR/Reconnect.luac": {
+            "md5": "793381944",
+            "size": 2263
+        },
+        "src/LobbySCR/RedPacket.luac": {
+            "md5": "1714444436",
+            "size": 2879
+        },
+        "src/LobbySCR/Transmitter.luac": {
+            "md5": "2207114321",
+            "size": 5447
+        },
+        "src/LobbySCR/Update.luac": {
+            "md5": "576447675",
+            "size": 5991
+        },
+        "src/MutilLobby/BacItem.luac": {
+            "md5": "3830460804",
+            "size": 2383
+        },
+        "src/MutilLobby/BWItem.luac": {
+            "md5": "270698677",
+            "size": 2615
+        },
+        "src/MutilLobby/data.luac": {
+            "md5": "3841251048",
+            "size": 9679
+        },
+        "src/MutilLobby/GameAlert.luac": {
+            "md5": "2404007275",
+            "size": 979
+        },
+        "src/MutilLobby/GameFiles.luac": {
+            "md5": "2060584984",
+            "size": 15555
+        },
+        "src/MutilLobby/GameNet.luac": {
+            "md5": "2303261577",
+            "size": 14803
+        },
+        "src/MutilLobby/GameTest.luac": {
+            "md5": "2832627525",
+            "size": 527
+        },
+        "src/MutilLobby/gfx.luac": {
+            "md5": "2460544255",
+            "size": 13907
+        },
+        "src/MutilLobby/Languages.luac": {
+            "md5": "3456538993",
+            "size": 2091
+        },
+        "src/MutilLobby/LhdItem.luac": {
+            "md5": "3773899868",
+            "size": 2271
+        },
+        "src/MutilLobby/MutilNet.luac": {
+            "md5": "2412265173",
+            "size": 21639
+        },
+        "src/MutilLobby/NewGameNet.luac": {
+            "md5": "1278141218",
+            "size": 1463
+        },
+        "src/MutilLobby/NiuItem.luac": {
+            "md5": "2771863675",
+            "size": 2743
+        },
+        "src/MutilLobby/OnlineCtr.luac": {
+            "md5": "859537961",
+            "size": 10339
+        },
+        "src/MutilLobby/OtherItem.luac": {
+            "md5": "1486923411",
+            "size": 9227
+        },
+        "src/MutilLobby/RoadData.luac": {
+            "md5": "3658989339",
+            "size": 2423
+        },
+        "src/MutilLobby/RouItem.luac": {
+            "md5": "2556831134",
+            "size": 4119
+        },
+        "src/MutilLobby/SelectLimit.luac": {
+            "md5": "12839570",
+            "size": 1831
+        },
+        "src/MutilLobby/SicItem.luac": {
+            "md5": "4002778418",
+            "size": 2595
+        },
+        "src/MutilLobby/TableList.luac": {
+            "md5": "566098449",
+            "size": 6055
+        },
+        "src/MutilLobby/TimeCount.luac": {
+            "md5": "2779700167",
+            "size": 3739
+        },
+        "src/TableCommon/ActionHistory.luac": {
+            "md5": "3391413147",
+            "size": 1211
+        },
+        "src/TableCommon/Alert.luac": {
+            "md5": "4043127714",
+            "size": 1939
+        },
+        "src/TableCommon/BetArea.luac": {
+            "md5": "59406353",
+            "size": 2243
+        },
+        "src/TableCommon/CardVo.luac": {
+            "md5": "371061167",
+            "size": 1351
+        },
+        "src/TableCommon/CommandBase.luac": {
+            "md5": "780323156",
+            "size": 2579
+        },
+        "src/TableCommon/CommandQueue.luac": {
+            "md5": "349728377",
+            "size": 4871
+        },
+        "src/TableCommon/EventDispatcher.luac": {
+            "md5": "678178032",
+            "size": 1795
+        },
+        "src/TableCommon/FlipCard.luac": {
+            "md5": "1235331866",
+            "size": 2043
+        },
+        "src/TableCommon/MoneyTick.luac": {
+            "md5": "2490221176",
+            "size": 2075
+        },
+        "src/TableCommon/Move.luac": {
+            "md5": "2459922170",
+            "size": 2263
+        },
+        "src/TableCommon/MoveChipBet.luac": {
+            "md5": "1413406052",
+            "size": 3319
+        },
+        "src/TableCommon/QueueEventManager.luac": {
+            "md5": "3373369960",
+            "size": 763
+        },
+        "src/TableCommon/ScrollChip.luac": {
+            "md5": "3445433703",
+            "size": 3359
+        },
+        "src/TableCommon/sound.luac": {
+            "md5": "2140313183",
+            "size": 4603
+        },
+        "src/TableCommon/TableAction.luac": {
+            "md5": "804671448",
+            "size": 667
+        },
+        "src/TableCommon/TNTBigWinNode.luac": {
+            "md5": "2367853019",
+            "size": 6331
+        },
+        "src/TableCommon/TouchListener.luac": {
+            "md5": "1608324188",
+            "size": 2199
+        },
+        "src/utils/ActionUtils.luac": {
+            "md5": "988609823",
+            "size": 1651
+        },
+        "src/utils/AlgorithmClass.luac": {
+            "md5": "1397184196",
+            "size": 607
+        },
+        "src/utils/DelayedCall.luac": {
+            "md5": "419298476",
+            "size": 2023
+        },
+        "src/utils/EleClippingAction.luac": {
+            "md5": "3514062907",
+            "size": 2247
+        },
+        "src/utils/FrameEvent.luac": {
+            "md5": "3548176509",
+            "size": 947
+        },
+        "src/utils/GameBonus.luac": {
+            "md5": "4263021423",
+            "size": 7023
+        },
+        "src/utils/GameMenu.luac": {
+            "md5": "2527159015",
+            "size": 7147
+        },
+        "src/utils/GLUtils.luac": {
+            "md5": "3739407619",
+            "size": 2787
+        },
+        "src/utils/Help232.luac": {
+            "md5": "1156175682",
+            "size": 4159
+        },
+        "src/utils/HelpChinaTown.luac": {
+            "md5": "2790324529",
+            "size": 5135
+        },
+        "src/utils/HelpJixing.luac": {
+            "md5": "2618942017",
+            "size": 5067
+        },
+        "src/utils/HelpTNT.luac": {
+            "md5": "2306968639",
+            "size": 5615
+        },
+        "src/utils/HelpTruck.luac": {
+            "md5": "1542716579",
+            "size": 5067
+        },
+        "src/utils/juggler.luac": {
+            "md5": "2941758744",
+            "size": 2407
+        },
+        "src/utils/LoadImage.luac": {
+            "md5": "765037557",
+            "size": 2399
+        },
+        "src/utils/mathUtils.luac": {
+            "md5": "3347615209",
+            "size": 459
+        },
+        "src/utils/ModalDlg.luac": {
+            "md5": "341332548",
+            "size": 4671
+        },
+        "src/utils/MoveClip.luac": {
+            "md5": "142296677",
+            "size": 4371
+        },
+        "src/utils/MovieClip.luac": {
+            "md5": "3648410771",
+            "size": 3231
+        },
+        "src/utils/print_r.luac": {
+            "md5": "3682231513",
+            "size": 1203
+        },
+        "src/utils/PublicBtn.luac": {
+            "md5": "2402191230",
+            "size": 6935
+        },
+        "src/utils/PublicDlg.luac": {
+            "md5": "3513120196",
+            "size": 4067
+        },
+        "src/utils/PublicMenu.luac": {
+            "md5": "152024700",
+            "size": 3203
+        },
+        "src/utils/Sound.luac": {
+            "md5": "2489944964",
+            "size": 1723
+        },
+        "src/utils/StringDef.luac": {
+            "md5": "3438669257",
+            "size": 1767
+        },
+        "src/utils/util.luac": {
+            "md5": "3336222233",
+            "size": 15855
+        }
+    }
+}
